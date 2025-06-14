@@ -1,0 +1,5 @@
+.vscode
+
+**/Main.java
+**/target/
+**/test/
